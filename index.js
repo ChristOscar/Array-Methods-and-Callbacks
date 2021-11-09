@@ -107,7 +107,7 @@ function getAverageGoals(data) {
 }
 
 console.log('Task 6 🚀', getAverageGoals(fifaData));
-
+//6 passed of 6
 
 /// 🥅 STRETCH 🥅 ///
 
